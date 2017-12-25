@@ -30,4 +30,4 @@ Things I need to use/learn.
 3) Perhapse a public web interface, I'm not tryna sell this lol.
 
 PROGESS CHART:
-12/25/17 ~ created Repo and README, learning about YouTube api
+12/25/17 ~ created Repo and README, learning about YouTube api, how to run js from command line, oauth youtube analytics.
