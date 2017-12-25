@@ -27,4 +27,7 @@ over time. More upgrades to come.
 Things I need to use/learn.
 1) YouTube api for video metrics.
 2) Javascript
-3) Perhapse a public web interface, I'm not tryna sell this lol
+3) Perhapse a public web interface, I'm not tryna sell this lol.
+
+PROGESS CHART:
+12/25/17 ~ created Repo and README, learning about YouTube api
